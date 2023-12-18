@@ -37,3 +37,21 @@
 #ex05 .recipe:hover h2 {
   transform: translateX(20px);
 }
+
+#ex06 .recipe {
+  transition: 0.4s;
+}
+
+#ex06 .recipe:hover {
+  padding-bottom: 30px;
+}
+
+#ex07 .recipe {
+  transition-duration: 0.4s;
+  transition-delay: 0.2s;
+}
+
+#ex07 .recipe:hover {
+  padding-bottom: 30px;
+  transition-delay: 0;
+}
