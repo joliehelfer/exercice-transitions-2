@@ -21,3 +21,11 @@
 #ex03 .recipe:hover img {
   opacity: 0.7;
 }
+
+#ex04 .recipe h2 {
+  transition: 0.4s;
+}
+
+#ex04 .recipe:hover h2 {
+  transform: translateX(20px);
+}
