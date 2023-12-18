@@ -1,0 +1,7 @@
+#ex01 .recipe {
+  transition: 0.4s;
+}
+
+#ex01 .recipe:hover {
+  scale: 1.2;
+}
